@@ -21,7 +21,7 @@ A ferramenta possui um menu interativo para executar diferentes módulos de aná
 ## 🖥️ Interface
 
 <p align="center">
-  <img src="assets/menu.png" alt="Menu do DeathCrawler" width="850">
+  <img src="interface.png" alt="Menu do DeathCrawler" width="850">
 </p>
 
 ## ⚙️ Funcionalidades
