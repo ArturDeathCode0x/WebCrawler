@@ -80,7 +80,7 @@ pip install -r requirements.txt
 Execute o programa:
 
 ```bash
-python3 main.py
+python3 deathCrawler.py
 ```
 
 O menu permite selecionar o tipo de análise:
