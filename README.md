@@ -7,7 +7,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/demo.gif" alt="DeathCrawler Demo" width="850">
+  <img src="banner.png" alt="DeathCrawler Demo" width="850">
 </p>
 
 ---
